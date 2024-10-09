@@ -640,3 +640,4 @@ C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\WebApi\obj\
 C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\WebApi\obj\Debug\net7.0\WebApi.pdb
 C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\WebApi\obj\Debug\net7.0\WebApi.genruntimeconfig.cache
 C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\WebApi\obj\Debug\net7.0\ref\WebApi.dll
+C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\WebApi\obj\Debug\net7.0\WebApi.sourcelink.json

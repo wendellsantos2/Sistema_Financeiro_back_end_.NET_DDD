@@ -118,3 +118,4 @@ C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Infra\obj\D
 C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Infra\obj\Debug\net7.0\refint\Infra.dll
 C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Infra\obj\Debug\net7.0\Infra.pdb
 C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Infra\obj\Debug\net7.0\ref\Infra.dll
+C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Infra\obj\Debug\net7.0\Infra.sourcelink.json

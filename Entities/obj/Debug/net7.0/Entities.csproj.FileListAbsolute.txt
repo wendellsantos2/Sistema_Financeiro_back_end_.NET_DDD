@@ -83,3 +83,4 @@ C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Entities\ob
 C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Entities\obj\Debug\net7.0\refint\Entities.dll
 C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Entities\obj\Debug\net7.0\Entities.pdb
 C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Entities\obj\Debug\net7.0\ref\Entities.dll
+C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Entities\obj\Debug\net7.0\Entities.sourcelink.json

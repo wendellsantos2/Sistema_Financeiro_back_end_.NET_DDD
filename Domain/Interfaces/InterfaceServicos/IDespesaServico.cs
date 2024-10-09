@@ -9,6 +9,7 @@ namespace Domain.Interfaces.InterfaceServicos
 {
     public interface IDespesaServico
     {
+        Task<object> CarregaGraficos(string emailUsuario);
         Task AdicionarDespesa(Despesa despesa);
         Task AtualizarDespesa(Despesa despesa);
     }

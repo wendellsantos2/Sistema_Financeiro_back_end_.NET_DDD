@@ -70,3 +70,15 @@ D:\wemde\Objetos-SistemaFinanceiro-2023-Parte-3-main\Objetos-SistemaFinanceiro-2
 D:\wemde\Objetos-SistemaFinanceiro-2023-Parte-3-main\Objetos-SistemaFinanceiro-2023-Parte-3-main\SistemaFinanceiro_2024_.Net_DDD_Angular\SistemaFinceiro\Helpers\obj\Debug\net7.0\refint\Helpers.dll
 D:\wemde\Objetos-SistemaFinanceiro-2023-Parte-3-main\Objetos-SistemaFinanceiro-2023-Parte-3-main\SistemaFinanceiro_2024_.Net_DDD_Angular\SistemaFinceiro\Helpers\obj\Debug\net7.0\Helpers.pdb
 D:\wemde\Objetos-SistemaFinanceiro-2023-Parte-3-main\Objetos-SistemaFinanceiro-2023-Parte-3-main\SistemaFinanceiro_2024_.Net_DDD_Angular\SistemaFinceiro\Helpers\obj\Debug\net7.0\ref\Helpers.dll
+C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Helpers\bin\Debug\net7.0\Helpers.deps.json
+C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Helpers\bin\Debug\net7.0\Helpers.dll
+C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Helpers\bin\Debug\net7.0\Helpers.pdb
+C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Helpers\obj\Debug\net7.0\Helpers.GeneratedMSBuildEditorConfig.editorconfig
+C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfoInputs.cache
+C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Helpers\obj\Debug\net7.0\Helpers.AssemblyInfo.cs
+C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Helpers\obj\Debug\net7.0\Helpers.csproj.CoreCompileInputs.cache
+C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Helpers\obj\Debug\net7.0\Helpers.sourcelink.json
+C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Helpers\obj\Debug\net7.0\Helpers.dll
+C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Helpers\obj\Debug\net7.0\refint\Helpers.dll
+C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Helpers\obj\Debug\net7.0\Helpers.pdb
+C:\Users\wemde\OneDrive\Desktop\Sistema_Financeiro_back_end_.NET_DDD\Helpers\obj\Debug\net7.0\ref\Helpers.dll

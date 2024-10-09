@@ -3,8 +3,44 @@
   "WorkspaceRootPath": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\",
   "Documents": [
     {
-      "AbsoluteMoniker": "D:0:0:{C9B5C45B-2642-4DE6-992D-290384771696}|Infra\\Infra.csproj|c:\\users\\wemde\\onedrive\\desktop\\sistema_financeiro_back_end_.net_ddd\\infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
-      "RelativeMoniker": "D:0:0:{C9B5C45B-2642-4DE6-992D-290384771696}|Infra\\Infra.csproj|solutionrelative:infra\\configuracao\\contextbase.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+      "AbsoluteMoniker": "D:0:0:{B9A03515-F4CE-446A-91D9-3DFAF6B3D07A}|WebApi\\WebApi.csproj|c:\\users\\wemde\\onedrive\\desktop\\sistema_financeiro_back_end_.net_ddd\\webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A03515-F4CE-446A-91D9-3DFAF6B3D07A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE450467-FF7E-4D77-9764-5CDE7EA23C5F}|Entities\\Entities.csproj|c:\\users\\wemde\\onedrive\\desktop\\sistema_financeiro_back_end_.net_ddd\\entities\\entidades\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE450467-FF7E-4D77-9764-5CDE7EA23C5F}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\despesa.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03515-F4CE-446A-91D9-3DFAF6B3D07A}|WebApi\\WebApi.csproj|c:\\users\\wemde\\onedrive\\desktop\\sistema_financeiro_back_end_.net_ddd\\webapi\\controllers\\despesascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A03515-F4CE-446A-91D9-3DFAF6B3D07A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\despesascontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{AACF5DF8-7DCD-4C65-B605-DAD66D3BE66D}|Domain\\Domain.csproj|c:\\users\\wemde\\onedrive\\desktop\\sistema_financeiro_back_end_.net_ddd\\domain\\interfaces\\interfaceservicos\\idespesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{AACF5DF8-7DCD-4C65-B605-DAD66D3BE66D}|Domain\\Domain.csproj|solutionrelative:domain\\interfaces\\interfaceservicos\\idespesaservico.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03515-F4CE-446A-91D9-3DFAF6B3D07A}|WebApi\\WebApi.csproj|c:\\users\\wemde\\onedrive\\desktop\\sistema_financeiro_back_end_.net_ddd\\webapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A03515-F4CE-446A-91D9-3DFAF6B3D07A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\categoriacontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE450467-FF7E-4D77-9764-5CDE7EA23C5F}|Entities\\Entities.csproj|c:\\users\\wemde\\onedrive\\desktop\\sistema_financeiro_back_end_.net_ddd\\entities\\entidades\\usuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE450467-FF7E-4D77-9764-5CDE7EA23C5F}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\usuariosistemafinanceiro.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DE450467-FF7E-4D77-9764-5CDE7EA23C5F}|Entities\\Entities.csproj|c:\\users\\wemde\\onedrive\\desktop\\sistema_financeiro_back_end_.net_ddd\\entities\\entidades\\proprietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DE450467-FF7E-4D77-9764-5CDE7EA23C5F}|Entities\\Entities.csproj|solutionrelative:entities\\entidades\\proprietario.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03515-F4CE-446A-91D9-3DFAF6B3D07A}|WebApi\\WebApi.csproj|c:\\users\\wemde\\onedrive\\desktop\\sistema_financeiro_back_end_.net_ddd\\webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A03515-F4CE-446A-91D9-3DFAF6B3D07A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\userscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03515-F4CE-446A-91D9-3DFAF6B3D07A}|WebApi\\WebApi.csproj|c:\\users\\wemde\\onedrive\\desktop\\sistema_financeiro_back_end_.net_ddd\\webapi\\controllers\\usuariosistemafinanceirocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A03515-F4CE-446A-91D9-3DFAF6B3D07A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\usuariosistemafinanceirocontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{B9A03515-F4CE-446A-91D9-3DFAF6B3D07A}|WebApi\\WebApi.csproj|c:\\users\\wemde\\onedrive\\desktop\\sistema_financeiro_back_end_.net_ddd\\webapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{B9A03515-F4CE-446A-91D9-3DFAF6B3D07A}|WebApi\\WebApi.csproj|solutionrelative:webapi\\controllers\\tokencontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
     },
     {
       "AbsoluteMoniker": "D:0:0:{B9A03515-F4CE-446A-91D9-3DFAF6B3D07A}|WebApi\\WebApi.csproj|c:\\users\\wemde\\onedrive\\desktop\\sistema_financeiro_back_end_.net_ddd\\webapi\\controllers\\sistemafinanceiroscontroller.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
@@ -18,7 +54,7 @@
       "DocumentGroups": [
         {
           "DockedWidth": 200,
-          "SelectedChildIndex": 4,
+          "SelectedChildIndex": 2,
           "Children": [
             {
               "$type": "Bookmark",
@@ -29,34 +65,141 @@
               "Name": "ST:128:0:{13b12e3e-c1b4-4539-9371-4fe9a0d523fc}"
             },
             {
-              "$type": "Bookmark",
-              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\WebApi\\Program.cs",
+              "RelativeDocumentMoniker": "WebApi\\Program.cs",
+              "ToolTip": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\WebApi\\Program.cs",
+              "RelativeToolTip": "WebApi\\Program.cs",
+              "ViewState": "AQIAAFAAAAAAAAAAAAAYwF8AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-10-03T02:06:35.749Z",
+              "EditorCaption": ""
             },
             {
               "$type": "Document",
               "DocumentIndex": 1,
+              "Title": "Despesa.cs",
+              "DocumentMoniker": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\Entities\\Entidades\\Despesa.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\Despesa.cs",
+              "ToolTip": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\Entities\\Entidades\\Despesa.cs",
+              "RelativeToolTip": "Entities\\Entidades\\Despesa.cs",
+              "ViewState": "AQIAABQAAAAAAAAAAAAIwCIAAAAbAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:36:19.448Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "IDespesaServico.cs",
+              "DocumentMoniker": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
+              "RelativeDocumentMoniker": "Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
+              "ToolTip": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
+              "RelativeToolTip": "Domain\\Interfaces\\InterfaceServicos\\IDespesaServico.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAqwA0AAAAvAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:33:43.555Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "DespesasController.cs",
+              "DocumentMoniker": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\WebApi\\Controllers\\DespesasController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\DespesasController.cs",
+              "ToolTip": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\WebApi\\Controllers\\DespesasController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\DespesasController.cs",
+              "ViewState": "AQIAAD0AAAAAAAAAAAAiwFIAAAA5AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:24:28.945Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "CategoriaController.cs",
+              "DocumentMoniker": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\WebApi\\Controllers\\CategoriaController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\CategoriaController.cs",
+              "ToolTip": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\WebApi\\Controllers\\CategoriaController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\CategoriaController.cs",
+              "ViewState": "AQIAADAAAAAAAAAAAAAkwC4AAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-25T12:22:11.935Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "UsuarioSistemaFinanceiro.cs",
+              "DocumentMoniker": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "ToolTip": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "RelativeToolTip": "Entities\\Entidades\\UsuarioSistemaFinanceiro.cs",
+              "ViewState": "AQIAAAYAAAAAAAAAAAAAABMAAAApAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:27:26.64Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Proprietario.cs",
+              "DocumentMoniker": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\Entities\\Entidades\\Proprietario.cs",
+              "RelativeDocumentMoniker": "Entities\\Entidades\\Proprietario.cs",
+              "ToolTip": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\Entities\\Entidades\\Proprietario.cs",
+              "RelativeToolTip": "Entities\\Entidades\\Proprietario.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAkAAAAFAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:27:10.215Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 8,
+              "Title": "UsuarioSistemaFinanceiroController.cs",
+              "DocumentMoniker": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\WebApi\\Controllers\\UsuarioSistemaFinanceiroController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsuarioSistemaFinanceiroController.cs",
+              "ToolTip": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\WebApi\\Controllers\\UsuarioSistemaFinanceiroController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UsuarioSistemaFinanceiroController.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:12:28.155Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 7,
+              "Title": "UsersController.cs",
+              "DocumentMoniker": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\WebApi\\Controllers\\UsersController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\UsersController.cs",
+              "ToolTip": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\WebApi\\Controllers\\UsersController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\UsersController.cs",
+              "ViewState": "AQIAABYAAAAAAAAAAAAgwCEAAAA1AAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:12:04.307Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 9,
+              "Title": "TokenController.cs",
+              "DocumentMoniker": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\WebApi\\Controllers\\TokenController.cs",
+              "RelativeDocumentMoniker": "WebApi\\Controllers\\TokenController.cs",
+              "ToolTip": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\WebApi\\Controllers\\TokenController.cs",
+              "RelativeToolTip": "WebApi\\Controllers\\TokenController.cs",
+              "ViewState": "AQIAABwAAAAAAAAAAAAgwAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-09-19T12:11:59.161Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 10,
               "Title": "SistemaFinanceirosController.cs",
               "DocumentMoniker": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\WebApi\\Controllers\\SistemaFinanceirosController.cs",
               "RelativeDocumentMoniker": "WebApi\\Controllers\\SistemaFinanceirosController.cs",
               "ToolTip": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\WebApi\\Controllers\\SistemaFinanceirosController.cs",
               "RelativeToolTip": "WebApi\\Controllers\\SistemaFinanceirosController.cs",
-              "ViewState": "AQIAAAkAAAAAAAAAAAAAABQAAABDAAAA",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAACYAAAAAAAAA",
               "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T11:29:58.406Z",
-              "EditorCaption": ""
+              "WhenOpened": "2024-09-19T11:29:58.406Z"
             },
             {
-              "$type": "Document",
-              "DocumentIndex": 0,
-              "Title": "ContextBase.cs",
-              "DocumentMoniker": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\Infra\\Configuracao\\ContextBase.cs",
-              "RelativeDocumentMoniker": "Infra\\Configuracao\\ContextBase.cs",
-              "ToolTip": "C:\\Users\\wemde\\OneDrive\\Desktop\\Sistema_Financeiro_back_end_.NET_DDD\\Infra\\Configuracao\\ContextBase.cs",
-              "RelativeToolTip": "Infra\\Configuracao\\ContextBase.cs",
-              "ViewState": "AQIAABgAAAAAAAAAAAAmwCQAAAAAAAAA",
-              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
-              "WhenOpened": "2024-09-19T11:15:06.798Z",
-              "EditorCaption": ""
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
             }
           ]
         }
